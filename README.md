@@ -52,5 +52,6 @@
 
 ## OUTPUT:
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8af066e4-077c-40a2-aa50-eea980d40aa4" />
+![WhatsApp Image 2025-11-26 at 15 58 16_67104f70](https://github.com/user-attachments/assets/cfb6cda1-6a7a-4cac-a376-51a835fa7e0c)
+
 
